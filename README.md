@@ -1,10 +1,10 @@
 ### Требования
 
-selenium==4.38.0
-pytest==9.0.1
-pytest-html==4.1.1
-webdriver-manager==4.0.2
-allure-pytest==2.15.0
+```pip install --force-reinstall -v "selenium==4.38.0"
+pip install --force-reinstall -v "pytest==9.0.1"
+pip install --force-reinstall -v "pytest-html==4.1.1"
+pip install --force-reinstall -v "webdriver-manager==4.0.2"
+pip install --force-reinstall -v "allure-pytest==2.15.0"```
 
 ## Запуск тестов
 
